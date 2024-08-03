@@ -1,0 +1,61 @@
+body {
+  background-color: #f4d04e;
+  font-family: "Figtree", sans-serif;
+}
+.container {
+  background-color: #fff;
+  width: 384px;
+  display: flex;
+  flex-direction: column;
+  margin: 150px auto;
+  border-radius: 20px;
+}
+
+.container img {
+  margin: 24px auto;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.container h2 {
+  font-size: 14px;
+  font-weight: 800;
+  margin-left: 24px;
+  display: inline-block;
+}
+
+.date {
+  font-size: 14px;
+  font-weight: 500;
+  color: #111;
+  margin: 12px 0 0 24px;
+}
+
+.container h1 {
+  font-size: 24px;
+  font-weight: 800;
+  color: #111;
+  margin: 12px 0 12px 24px;
+}
+
+.text {
+  color: #7f7f7f;
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 24px;
+}
+
+.footer {
+}
+.footer img {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+
+.footer p {
+  color: #111;
+  font-size: 14px;
+  font-weight: 800;
+  display: inline-block;
+}
